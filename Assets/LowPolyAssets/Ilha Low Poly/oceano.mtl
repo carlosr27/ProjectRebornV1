@@ -1,0 +1,11 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl Oceano
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.133210 0.366026 0.231801
+Ks 0.207024 0.259431 0.244829
+Ni 1.000000
+d 0.792929
+illum 2

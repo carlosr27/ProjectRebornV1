@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MissionCollection>
+  <Missions>
+    <Mission name="1">
+      <Item>ferro</Item>
+      <Amount>1</Amount>
+      <Reward>50</Reward>
+    </Mission>
+    <Mission name="2">
+      <Item>Uranio</Item>
+      <Amount>0</Amount>
+      <Reward>60</Reward>
+    </Mission>
+    <Mission name="3">
+      <Item>Prata</Item>
+      <Amount>1</Amount>
+      <Reward>50</Reward>
+    </Mission>
+    <Mission name="4">
+      <Item>Ouro</Item>
+      <Amount>1</Amount>
+      <Reward>60</Reward>
+    </Mission>
+    <Mission name="5">
+      <Item>Ferro</Item>
+      <Amount>1</Amount>
+      <Item2>Uranio</Item2>
+      <Amount2>1</Amount2>
+      <Reward>60</Reward>
+    </Mission>
+    <Mission name="6">
+      <Item>Ferro</Item>
+      <Amount>1</Amount>
+      <Item2>Prata</Item2>
+      <Amount2>1</Amount2>
+      <Reward>60</Reward>
+    </Mission>
+  </Missions>
+</MissionCollection>
